@@ -5,3 +5,5 @@ please keep in mind that when authenticating for github, you need to use a token
 your username will be your email that you use to login already. 
 
 //This is being edited from VS Code and committed with terminal straight to github repo
+
+//This is being editted from github.com repo and will be updated to VS Code using "svn update"
