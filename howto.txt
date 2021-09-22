@@ -11,7 +11,7 @@ svn checkout <insert-link> <name of repo>
 cd into trunk(this is the home workspace)
 
 
-//Some svn help 
+//Some svn help - https://groups.nscl.msu.edu/hira/ppt/SVN%20cheat%20sheet.pdf
 - How to commit in SVN
     1. Connect to server - svn checkout(co) URL nameTheFolder
     2. Create a file/folder/etc - type nul > nameFile
