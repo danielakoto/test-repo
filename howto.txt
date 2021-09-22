@@ -1,0 +1,12 @@
+Make a repo on github
+
+Copy link in the Code button(http)
+
+open a new window on VS Code
+
+open a terminal in VS Code
+
+svn checkout <insert-link> <name of repo>
+
+cd into trunk(this is the home workspace)
+
