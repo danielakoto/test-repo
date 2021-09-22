@@ -10,3 +10,16 @@ svn checkout <insert-link> <name of repo>
 
 cd into trunk(this is the home workspace)
 
+
+//Some svn help 
+- How to commit in SVN
+    1. Connect to server - svn checkout(co) URL nameTheFolder
+    2. Create a file/folder/etc - type nul > nameFile
+    3. Edit file - copy con nameFile
+    4. Add file to SVN - svn add nameFile
+    5. Commit - svn commit(ci) -m "Message stating what you did"
+- How to delete in SVN
+    1. Use delete command in SVN - svn delete nameFile
+    2. Commit - svn commit(ci) -m "Message stating what you did"
+- How to move from one directory to another
+    Use the move command in SVN - svn move
